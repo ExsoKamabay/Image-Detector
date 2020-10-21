@@ -1,0 +1,5 @@
+cv2utils==0.1.2
+art==4.8
+string-color==1.2.1
+terminal-viewer==0.3
+
